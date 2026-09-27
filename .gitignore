@@ -1,0 +1,49 @@
+[Ll]
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+[Uu]ser[Ss]ettings/
+
+# Visual Studio / Rider
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.VC.VC.opendb
+
+# Unity generated folders
+[Ll]ibrary/
+[Ll]ocal[Cc]ache/
+[Pp]rojectSettings/
+[Uu]serSettings/
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# Crash logs
+sysinfo.txt
+
+# Packages / asset metadata
+Assets/AssetStoreTools*
+
+# Lock files and generated files
+*.pidb
+*.unitypackage
+*.meta
+
+# JetBrains
+.idea/
